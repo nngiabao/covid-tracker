@@ -50,7 +50,7 @@ def fake_commits(start_date, end_date, min_commits, max_commits, skipping=False,
 
     # Push all the changes
     git_push()
-#test
+#testfwafwa
 
 # Set the date range
 start_date = datetime(2022, 1, 1)
